@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-cloud-firestore
+google-generativeai
+python-multipart
+python-dotenv
+pydantic
+email-validator
